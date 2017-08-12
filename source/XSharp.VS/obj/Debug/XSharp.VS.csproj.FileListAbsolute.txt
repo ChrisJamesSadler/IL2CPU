@@ -1,0 +1,13 @@
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\XSharp.VS.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\XSharp.VS.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\XSharp.VS.pkgdef
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\extension.vsixmanifest
+C:\Users\Chris\Google Drive\Github\Cosmos\source\XSharp.VS\obj\Debug\XSharp.VS.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Google Drive\Github\Cosmos\source\XSharp.VS\obj\Debug\VSPackage.resources
+C:\Users\Chris\Google Drive\Github\Cosmos\source\XSharp.VS\obj\Debug\XSharp.VS.Resources.resources
+C:\Users\Chris\Google Drive\Github\Cosmos\source\XSharp.VS\obj\Debug\XSharp.VS.csproj.GenerateResource.Cache
+C:\Users\Chris\Google Drive\Github\Cosmos\source\XSharp.VS\obj\Debug\XSharp.VS.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\source\XSharp.VS\obj\Debug\XSharp.VS.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\source\XSharp.VS\obj\Debug\XSharp.VS.pkgdef
+C:\Users\Chris\Google Drive\Github\Cosmos\source\XSharp.VS\obj\Debug\XSharp.VS.latest.pkgdef
+C:\Users\Chris\Google Drive\Github\Cosmos\source\XSharp.VS\obj\Debug\extension.vsixmanifest

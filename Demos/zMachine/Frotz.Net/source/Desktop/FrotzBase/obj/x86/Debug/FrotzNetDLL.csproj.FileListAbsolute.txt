@@ -1,0 +1,5 @@
+C:\Users\Chris\Google Drive\IL2CPU\Demos\zMachine\Frotz.Net\source\Desktop\FrotzBase\bin\x86\Debug\FrotzNetDLL.dll
+C:\Users\Chris\Google Drive\IL2CPU\Demos\zMachine\Frotz.Net\source\Desktop\FrotzBase\bin\x86\Debug\FrotzNetDLL.pdb
+C:\Users\Chris\Google Drive\IL2CPU\Demos\zMachine\Frotz.Net\source\Desktop\FrotzBase\obj\x86\Debug\FrotzNetDLL.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Google Drive\IL2CPU\Demos\zMachine\Frotz.Net\source\Desktop\FrotzBase\obj\x86\Debug\FrotzNetDLL.dll
+C:\Users\Chris\Google Drive\IL2CPU\Demos\zMachine\Frotz.Net\source\Desktop\FrotzBase\obj\x86\Debug\FrotzNetDLL.pdb

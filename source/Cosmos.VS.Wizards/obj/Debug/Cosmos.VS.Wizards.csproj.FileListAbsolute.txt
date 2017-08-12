@@ -1,0 +1,9 @@
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.VS.Wizards.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.VS.Wizards.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Wizards\obj\Debug\Cosmos.VS.Wizards.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Wizards\obj\Debug\Cosmos.VS.Wizards.pdb
+C:\Users\Chris\Google Drive\IL2CPU\Build\VSIP\Cosmos.VS.Wizards.dll
+C:\Users\Chris\Google Drive\IL2CPU\Build\VSIP\Cosmos.VS.Wizards.pdb
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.VS.Wizards\obj\Debug\Cosmos.VS.Wizards.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.VS.Wizards\obj\Debug\Cosmos.VS.Wizards.dll
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.VS.Wizards\obj\Debug\Cosmos.VS.Wizards.pdb

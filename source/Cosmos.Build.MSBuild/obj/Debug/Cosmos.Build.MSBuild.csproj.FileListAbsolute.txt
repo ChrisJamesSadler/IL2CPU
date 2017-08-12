@@ -1,0 +1,11 @@
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.targets
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.Build.MSBuild.dll.config
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.Build.MSBuild.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.Build.MSBuild.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Build.MSBuild\obj\Debug\Cosmos.Build.MSBuild.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Build.MSBuild\obj\Debug\Cosmos.Build.MSBuild.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Build.MSBuild\obj\Debug\Cosmos.Build.MSBuild.pdb
+C:\Users\Chris\Google Drive\IL2CPU\Build\VSIP\Cosmos.targets
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Build.MSBuild\obj\Debug\Cosmos.Build.MSBuild.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Build.MSBuild\obj\Debug\Cosmos.Build.MSBuild.dll
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Build.MSBuild\obj\Debug\Cosmos.Build.MSBuild.pdb

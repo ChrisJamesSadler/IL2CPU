@@ -1,0 +1,17 @@
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\bin\Debug\JargonKernel.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\bin\Debug\JargonKernel.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\bin\Debug\Cosmos.Debug.Kernel.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\bin\Debug\Cosmos.System.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\bin\Debug\Cosmos.Common.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\bin\Debug\Cosmos.HAL.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\bin\Debug\Cosmos.Core.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\bin\Debug\Cosmos.Core.Memory.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\bin\Debug\Cosmos.System.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\bin\Debug\Cosmos.Debug.Kernel.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\bin\Debug\Cosmos.Common.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\bin\Debug\Cosmos.HAL.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\bin\Debug\Cosmos.Core.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\bin\Debug\Cosmos.Core.Memory.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\obj\x86\Debug\JargonKernel.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\obj\x86\Debug\JargonKernel.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\Demos\JargonKernel\JargonKernel\obj\x86\Debug\JargonKernel.pdb

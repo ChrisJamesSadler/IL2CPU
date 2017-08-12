@@ -1,0 +1,14 @@
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Build.Common\bin\Debug\Cosmos.Build.Common.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Build.Common\bin\Debug\Cosmos.Build.Common.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.Build.Common.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.Build.Common.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Build.Common\obj\Debug\Cosmos.Build.Common.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Build.Common\obj\Debug\Cosmos.Build.Common.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Build.Common\obj\Debug\Cosmos.Build.Common.pdb
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Build.Common\bin\Debug\Cosmos.Build.Common.dll
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Build.Common\bin\Debug\Cosmos.Build.Common.pdb
+C:\Users\Chris\Google Drive\IL2CPU\Build\VSIP\Cosmos.Build.Common.dll
+C:\Users\Chris\Google Drive\IL2CPU\Build\VSIP\Cosmos.Build.Common.pdb
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Build.Common\obj\Debug\Cosmos.Build.Common.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Build.Common\obj\Debug\Cosmos.Build.Common.dll
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Build.Common\obj\Debug\Cosmos.Build.Common.pdb

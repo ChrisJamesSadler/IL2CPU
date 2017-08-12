@@ -1,0 +1,10 @@
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Build.Installer\bin\Debug\Cosmos.Build.Installer.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Build.Installer\bin\Debug\Cosmos.Build.Installer.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Build.Installer\obj\Debug\Cosmos.Build.Installer.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Build.Installer\obj\Debug\Cosmos.Build.Installer.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Build.Installer\obj\Debug\Cosmos.Build.Installer.pdb
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Build.Installer\bin\Debug\Cosmos.Build.Installer.dll
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Build.Installer\bin\Debug\Cosmos.Build.Installer.pdb
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Build.Installer\obj\Debug\Cosmos.Build.Installer.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Build.Installer\obj\Debug\Cosmos.Build.Installer.dll
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Build.Installer\obj\Debug\Cosmos.Build.Installer.pdb

@@ -1,0 +1,6 @@
+C:\Users\Chris\Google Drive\IL2CPU\Tests\Cosmos.TestRunner.TestController\bin\Debug\Cosmos.TestRunner.TestController.dll
+C:\Users\Chris\Google Drive\IL2CPU\Tests\Cosmos.TestRunner.TestController\bin\Debug\Cosmos.TestRunner.TestController.pdb
+C:\Users\Chris\Google Drive\IL2CPU\Tests\Cosmos.TestRunner.TestController\bin\Debug\Cosmos.Debug.Kernel.dll
+C:\Users\Chris\Google Drive\IL2CPU\Tests\Cosmos.TestRunner.TestController\bin\Debug\Cosmos.Debug.Kernel.pdb
+C:\Users\Chris\Google Drive\IL2CPU\Tests\Cosmos.TestRunner.TestController\obj\Debug\Cosmos.TestRunner.TestController.dll
+C:\Users\Chris\Google Drive\IL2CPU\Tests\Cosmos.TestRunner.TestController\obj\Debug\Cosmos.TestRunner.TestController.pdb

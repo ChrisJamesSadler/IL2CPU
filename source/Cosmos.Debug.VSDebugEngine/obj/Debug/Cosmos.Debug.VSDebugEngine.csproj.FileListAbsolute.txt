@@ -1,0 +1,16 @@
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.Debug.VSDebugEngine.dll.config
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.Debug.VSDebugEngine.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.Debug.VSDebugEngine.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Debug.VSDebugEngine\obj\Debug\Cosmos.Debug.VSDebugEngine.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Debug.VSDebugEngine\obj\Debug\Cosmos.Debug.VSDebugEngine.ResourceStrings.resources
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Debug.VSDebugEngine\obj\Debug\Cosmos.Debug.VSDebugEngine.csproj.GenerateResource.Cache
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Debug.VSDebugEngine\obj\Debug\Cosmos.Debug.VSDebugEngine.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Debug.VSDebugEngine\obj\Debug\Cosmos.Debug.VSDebugEngine.pdb
+C:\Users\Chris\Google Drive\IL2CPU\Build\VSIP\Cosmos.Debug.VSDebugEngine.dll.config
+C:\Users\Chris\Google Drive\IL2CPU\Build\VSIP\Cosmos.Debug.VSDebugEngine.dll
+C:\Users\Chris\Google Drive\IL2CPU\Build\VSIP\Cosmos.Debug.VSDebugEngine.pdb
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Debug.VSDebugEngine\obj\Debug\Cosmos.Debug.VSDebugEngine.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Debug.VSDebugEngine\obj\Debug\Cosmos.Debug.VSDebugEngine.ResourceStrings.resources
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Debug.VSDebugEngine\obj\Debug\Cosmos.Debug.VSDebugEngine.csproj.GenerateResource.Cache
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Debug.VSDebugEngine\obj\Debug\Cosmos.Debug.VSDebugEngine.dll
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Debug.VSDebugEngine\obj\Debug\Cosmos.Debug.VSDebugEngine.pdb

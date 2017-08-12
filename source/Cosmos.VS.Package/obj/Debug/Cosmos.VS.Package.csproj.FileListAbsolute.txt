@@ -1,0 +1,33 @@
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\ItemTemplates\CosmosKernel (VB).zip
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\ItemTemplates\CosmosProject (VB).zip
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\ItemTemplates\CosmosKernel (C#).zip
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\ItemTemplates\CosmosProject (C#).zip
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\ItemTemplates\Cosmos.zip
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\ItemTemplates\CosmosProject (F#).zip
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\ItemTemplates\Projects.zip
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.targets
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.VS.Package.dll.config
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.VS.Package.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.VS.Package.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.VS.Package.pkgdef
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\extension.vsixmanifest
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\Cosmos.VS.Package.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\Cosmos.VS.Package.VSPackage.resources
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\Cosmos.VS.Package.CosmosPage.resources
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\Cosmos.VS.Package.CustomPropertyPage.resources
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\Cosmos.VS.Package.TitleDivision.resources
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\Cosmos.VS.Package.UnsavedConfigChangesDialog.resources
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\Cosmos.VS.Package.VisualStudio.Package.Project.resources
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\Cosmos.VS.Package.csproj.GenerateResource.Cache
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\CosmosKernel (VB).zip
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\CosmosProject (VB).zip
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\CosmosKernel (C#).zip
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\CosmosProject (C#).zip
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\Cosmos.zip
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\CosmosProject (F#).zip
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\Projects.zip
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\Cosmos.VS.Package.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\Cosmos.VS.Package.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\Cosmos.VS.Package.pkgdef
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\Cosmos.VS.Package.latest.pkgdef
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.VS.Package\obj\Debug\extension.vsixmanifest

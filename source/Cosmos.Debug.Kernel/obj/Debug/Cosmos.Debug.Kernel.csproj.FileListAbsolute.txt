@@ -1,0 +1,12 @@
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Debug.Kernel\bin\Debug\Cosmos.Debug.Kernel.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Debug.Kernel\bin\Debug\Cosmos.Debug.Kernel.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.Debug.Kernel.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\Build\VSIP\Cosmos.Debug.Kernel.pdb
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Debug.Kernel\obj\Debug\Cosmos.Debug.Kernel.dll
+C:\Users\Chris\Google Drive\Github\Cosmos\source\Cosmos.Debug.Kernel\obj\Debug\Cosmos.Debug.Kernel.pdb
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Debug.Kernel\bin\Debug\Cosmos.Debug.Kernel.dll
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Debug.Kernel\bin\Debug\Cosmos.Debug.Kernel.pdb
+C:\Users\Chris\Google Drive\IL2CPU\Build\VSIP\Cosmos.Debug.Kernel.dll
+C:\Users\Chris\Google Drive\IL2CPU\Build\VSIP\Cosmos.Debug.Kernel.pdb
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Debug.Kernel\obj\Debug\Cosmos.Debug.Kernel.dll
+C:\Users\Chris\Google Drive\IL2CPU\source\Cosmos.Debug.Kernel\obj\Debug\Cosmos.Debug.Kernel.pdb
